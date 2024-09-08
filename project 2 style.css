@@ -1,0 +1,740 @@
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.div1
+{
+    background-color: #283847;
+    height: 120px;
+    width: 100%;
+    display: flex;
+}
+.dive1img
+{
+    background-color: #283847;
+    height: 100px;
+    width: 150px;
+    margin: 10px 0 0 135px;
+}
+#img1
+{
+    height: 100px;
+}
+.div2
+{
+    background-color: #E6F1F5;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div2box
+{
+    background-color: #E6F1F5;
+    height: 550px;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.div2heading
+{
+    background-color: #E6F1F5;
+    height: 450px;
+    width: 40%;
+}
+.heading1
+{
+    background-color: #E6F1F5;
+    height: 50px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#h1
+{
+    color: #4E79A3;
+    padding: 5px 0 0 0;
+    margin: 0;
+    font-size: 32px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading2
+{
+    background-color: #E6F1F5;
+    height: 50px;
+    width: 100%;
+    margin: 0 0 20px 0;
+}
+#h2
+{
+    color: #4E79A3;
+    padding: 0;
+    margin: 0;
+    font-size: 56px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading3
+{
+    background-color: #E6F1F5;
+    height: 50px;
+    width: 100%;
+}
+#h3
+{
+    color: #4E79A3;
+    padding: 0;
+    margin: 0 0 0 10px;
+    font-size: 32px;
+    font-weight: normal;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.heading4
+{
+    background-color: #E6F1F5;
+    height: 50px;
+    width: 100%;
+}
+#h4p
+{
+    color: #C5D0D4;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#icon1
+{
+    text-align: center;
+    font-weight: bolder;
+    float: left;
+    margin: 0 5px 0 0;
+    padding: 0;
+    width: 15px;
+    height: 15px;
+    color: white;
+    background-color: #6AB5CA;
+}
+.div2img
+{
+    background-color: #E6F1F5;
+    height: 450px;
+    width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    padding-bottom: 15px;
+}
+.img1
+{
+    background-color: #E6F1F5;
+    height: 80%;
+    width: 100%;
+}
+#img3
+{
+    height: 350px;
+}
+.img2
+{
+    background-color: #E6F1F5;
+    height: 20%;
+    width: 100%;
+}
+#img2
+{
+    height: 100%;
+}
+.div2text
+{
+    background-color: #E3F0F8;
+    border-top: 5px solid gray;
+    border-bottom: 2px solid gray;
+    height: 100px;
+    width: 100%;
+    display: flex;
+}
+.text1
+{
+    background-color: #E3F0F8;
+    height: 100%;
+    width: 80%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+#p1
+{
+    margin: 0;
+    padding: 40px 0 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #68AABA;
+    font-weight: bold;
+    font-size: larger;
+}
+.text2
+{
+    background-color: #E3F0F8;
+    height: 100%;
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#button1
+{
+    background-color: #F12E1A;
+    border: none;
+    color: white;
+    font-weight: bolder;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 50px;
+    padding: 0;
+    margin: 0;
+}
+.div3
+{
+    background-color: white;
+    height: 600px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div3box
+{
+    background-color: aqua;
+    height: 90%;
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.firstbox
+{
+    background-color: white;
+    height: 100%;
+    width: 50%;
+}
+.youtubeimg
+{
+    background-color: white;
+    height: 40%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid gray;
+}
+#img4
+{
+    height: 190px;
+}
+.message
+{
+    background-color: white;
+    height: 60%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+#m1
+{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(30, 36, 73);
+    margin: 20px 0 0 -5px;
+    padding: 0;
+}
+#m2
+{
+    background-color: #E5E5E5;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 0 0 0;
+}
+#m2p
+{
+    width: 90%;
+    height: 80%;
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+#principal
+{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    display: flex;
+    margin: 20px 0 0 0;
+}
+#principalicon
+{
+    padding: 0 20px 0 0;
+    font-size: 30px;
+}
+#principalname
+{
+    padding: 10px 0 0 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.secondbox
+{
+    background-color: white;
+    height: 100%;
+    width: 50%;
+}
+.databox
+{
+    background-color: white;
+    height: 95%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.databox1
+{
+    float: left;
+    background-color: aqua;
+    height: 100%;
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.contact
+{
+    float: left;
+    background-color: #457AA4;
+    height: 20%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contact
+{
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: white;
+}
+.box
+{
+    float: left;
+    background-color: #94B0C6;
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#input1
+{
+    height: 40px;
+    width: 90%;
+}
+#input2
+{
+    height: 40px;
+    width: 90%;
+}
+#input3
+{
+    height: 40px;
+    width: 90%;
+}
+#input4
+{
+    height: 80px;
+    width: 90%;
+}
+#input5
+{
+    border: none;
+    height: 50px;
+    width: 100%;
+    font-weight: bolder;
+    font-size: 15px;
+    color: white;
+    background-color: red;
+
+}
+.div4
+{
+    background-color: #E5F0F4;
+    height: 200px;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box1
+{
+    background-color: #E5F0F4;
+    height: 100%;
+    width: 19%;
+    margin-right: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#logo1img
+{
+    height: 100px;
+    padding: 0 50px 0 50px;
+}
+#logo1heading
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 0;
+}
+#logo1paragraph
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+}
+.box2
+{
+    background-color: #E5F0F4;
+    height: 100%;
+    width: 19%;
+    margin-right: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#logo2img
+{
+    height: 100px;
+    padding: 0 30px 0 30px;
+}
+#logo2heading
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 0;
+}
+#logo2paragraph
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+}
+.box3
+{
+    background-color: #E5F0F4;
+    height: 100%;
+    width: 19%;
+    margin-right: 16px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#logo3img
+{
+    height: 100px;
+    padding: 0 30px 0 30px;
+}
+#logo3heading
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 0;
+}
+#logo3paragraph
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+}
+.box4
+{
+    background-color: #E5F0F4;
+    height: 100%;
+    width: 19%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#logo4img
+{
+    height: 100px;
+    padding: 0 30px 0 30px;
+}
+#logo4heading
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    margin: 0;
+}
+#logo4paragraph
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 14px;
+    margin: 0;
+    margin-bottom: 10px;
+    padding: 0;
+}
+.div5
+{
+    background-color: #F7F7F7;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.context
+{
+    background-color: chartreuse;
+    border-top: 5px solid #457AA4;
+    border-bottom: 5px solid gray;
+    height: 100px;
+    width: 80%;
+    display: flex;
+}
+.context1
+{
+    width: 80%;
+    height: 100%;
+    background-color: #F6F7F2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#context1p
+{
+    color: #5599B0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.context2
+{
+    width: 20%;
+    height: 100%;
+    background-color: #457AA4;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+#context2p1
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    margin: 0;
+    margin-top: 22px;
+    font-size: 20px;
+}
+#context2p2
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    margin-bottom: 22px;
+    font-size: 18px;
+}
+.div6
+{
+    background-color: #457AA4;
+    height: 200px;
+    width: 100%;
+    padding: 50px 0 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxA
+{ 
+    background-color: #457AA4;
+    height: 100%;
+    width: 19%;
+    margin-right: 16px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#boxAp
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 0;
+    margin-bottom: 30px;
+}
+#boxAd
+{
+    width: 100%;
+    height: 150px;
+    background-color: white
+}
+.boxB
+{
+    background-color: #457AA4;
+    height: 100%;
+    width: 19%;
+    margin-right: 16px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#boxBp1
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 0;
+    margin-right: 150px;
+}
+#boxBp2
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    margin: 0;
+}
+#boxBp3
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0;
+}
+#boxBp4
+{
+    color: white;
+    margin: 5px 0 15px 0;
+    padding: 0 0 0 0;
+    font-weight: bolder;
+}
+.boxC
+{
+    float: left;
+    background-color: #457AA4;
+    height: 100%;
+    width: 19%;
+    margin-right: 16px;
+    display: flex;
+    flex-wrap: wrap;
+}
+#boxCp
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    margin: 0 150px 65px 0;
+}
+#boxCp1
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin: -45px 0 0 0;
+}
+#boxCp2
+{
+    color: white;
+    margin: -55px 0 0 0;
+    padding: 0 0 0 0;
+    font-weight: bolder;
+}
+.boxD
+{
+    background-color: #457AA4;
+    height: 100%;
+    width: 19%;
+    display: flex;
+    flex-wrap: wrap;
+}
+#boxDp
+{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: bolder;
+    padding: 0;
+    margin: 0 150px 30px 0;
+}
+#boxDi
+{
+    height: 170px;
+    width: 100%;
+}
+.div7
+{
+    background-color: #283847;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#icons
+{
+    color: gray;
+    font-weight: bolder;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+/*----------------------------------------------------------------------------------------------------------------------*/
+@media only screen and (min-width:320px) and (max-width:479px){
+    .div2heading
+    {
+        width: 100%;
+    }
+    #img3
+    {
+        height: 100PX;
+    }
+    .firstbox
+    {
+        width: 100%;
+    }
+    .secondbox
+    {
+        width: 100%;
+    }
+}
